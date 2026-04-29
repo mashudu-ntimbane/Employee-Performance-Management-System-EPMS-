@@ -256,8 +256,7 @@ git push origin feature/your-feature-name
 
 ## Acknowledgements
 
-- **Tirelo Capital** — Real-world deployment partner
-- **COSC300 Course** — Academic foundation and project brief
+- **Developer** — Myself
 - **Open Source Libraries** — Bootstrap 5, FontAwesome, PHPMailer
 
 ---
