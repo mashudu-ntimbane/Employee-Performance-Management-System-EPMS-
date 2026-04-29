@@ -1,0 +1,114 @@
+INFO:root:Attempting to register user: Mashudu
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: mysql_native_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+ERROR:root:Error connecting to database: 1045 (28000): Access denied for user 'your_username'@'localhost' (using password: YES)
+INFO:root:Attempting to register user: Mashudu
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: mysql_native_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+ERROR:root:Error connecting to database: 1045 (28000): Access denied for user 'your_username'@'localhost' (using password: YES)
+ERROR:root:Insufficient arguments provided
+INFO:root:Attempting to register user: Papi
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+ERROR:root:Error during registration: 1054 (42S22): Unknown column 'name' in 'field list'
+INFO:root:Attempting to register user: Papi
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:User Papi registered successfully
+INFO:root:Attempting login
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:Found 6 users in database
+INFO:root:User Lefa successfully authenticated
+INFO:root:Attempting login
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:Found 6 users in database
+INFO:root:User Lefa successfully authenticated
+INFO:root:Attempting to register user: Mahlori
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:User Mahlori registered successfully
+INFO:root:Attempting login
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:Found 7 users in database
+INFO:root:User Mahlori successfully authenticated with confidence 0.80
+INFO:root:Successful login for user: Mahlori
+INFO:root:Attempting to register user: Brain
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:User Brain registered successfully
+INFO:root:Attempting login
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:Found 8 users in database
+INFO:root:User Brain successfully authenticated with confidence 0.73
+INFO:root:Successful login for user: Brain
+INFO:root:Attempting login
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:Found 8 users in database
+INFO:root:User Mahlori successfully authenticated with confidence 0.79
+INFO:root:Successful login for user: Mahlori
+ERROR:root:Name not provided for registration
+ERROR:root:Name not provided for registration
+ERROR:root:Name not provided for registration
+ERROR:root:Name not provided for registration
+ERROR:root:Insufficient arguments provided
+INFO:root:Attempting login
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:Found 8 users in database
+WARNING:root:Best match found but below confidence threshold: 0.47
+WARNING:root:Failed login attempt - no matching user found
+INFO:root:Attempting login
+WARNING:root:Multiple faces detected during capture
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:Found 8 users in database
+INFO:root:User Mahlori successfully authenticated with confidence 0.82
+INFO:root:Successful login for user: Mahlori
+INFO:root:Attempting to register user: Tsholofelo
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:User Tsholofelo registered successfully
+INFO:root:Attempting to register user: Rofhiwa
+DEBUG:mysql.connector:Starting authorization phase
+DEBUG:mysql.connector:The provided initial strategy is mysql_native_password
+DEBUG:mysql.connector:caching_sha2_password completed succesfully
+INFO:root:Successfully connected to database
+INFO:root:User Rofhiwa registered successfully
+ERROR:root:Name not provided for registration
+ERROR:root:Name not provided for registration
+ERROR:root:Name not provided for registration
