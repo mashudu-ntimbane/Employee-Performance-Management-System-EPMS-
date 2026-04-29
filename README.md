@@ -148,6 +148,11 @@ EPMS/
 |---|
 | ![Report Issue](App%20pictures/CaptureW1I.PNG)  ![my reported](App%20pictures/CaptureW2I.PNG) ![Rate](App%20pictures/CaptureRATING.PNG) ![Reported](App%20pictures/CaptureWI3.PNG)|
 
+### Company page
+
+|Company page |
+|---|
+| ![Company page](App%20pictures/CaptureCompanyPage.PNG) |
 
 ---
 
