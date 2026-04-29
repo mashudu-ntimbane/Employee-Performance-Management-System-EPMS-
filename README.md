@@ -83,16 +83,20 @@ EPMS/
 ### Login
 | Overview |
 |---|
-| ![HR Dashboard](App%20pictures/Capture2.PNG) |
+| ![Login](App%20pictures/Capture2.PNG) |
 
 ### HR
-| HR Dashboard| HR Profile|
-|---|---|
-| ![HR Dashboard](App%20pictures/CaptureH1.PNG) | ![Employees](App%20pictures/CaptureH2.PNG) |
+| HR Dashboard|
+|---|
+| ![HR Dashboard](App%20pictures/CaptureH1.PNG) |
+
+ |HR Profile|
+ |---|
+ | ![HR Profile](App%20pictures/CaptureH2.PNG), ![HR Profile](App%20pictures/CaptureH2P.PNG)  |
 
 | Employees|
 |---|
-| ![Leave](App%20pictures/CaptureH1E.PNG) |
+| ![Employees](App%20pictures/CaptureH1E.PNG) |
 
 ### Manager Dashboard
 
