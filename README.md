@@ -150,9 +150,9 @@ EPMS/
 
 ### Company page
 
-|Feedback|
+|Company page|
 |---|
-| ![Feedback](App%20pictures/CaptureWF1.PNG) |
+| ![Companyy](App%20pictures/CaptureCompany_page.PNG) |
 
 ---
 
