@@ -86,9 +86,10 @@ EPMS/
 | ![HR Dashboard](App%20pictures/Capture2.PNG) |
 
 ### HR
-| Dashboard| HR profile |Employees|
-|---|---|---|
-| ![HR Dashboard](App%20pictures/CaptureH1.PNG) |  ![Leave](App%20pictures/CaptureH2.PNG) ,  ![Leave](App%20pictures/CaptureH2P.PNG)  | ![Employees](App%20pictures/CaptureH1E.PNG) |
+| Dashboard| HR profile |
+| ![HR Dashboard](App%20pictures/CaptureH1.PNG) |  ![Leave](App%20pictures/CaptureH2.PNG) ,  ![Leave](App%20pictures/CaptureH2P.PNG)  | 
+| Employees|
+![Employees](App%20pictures/CaptureH1E.PNG) |
 
 ### Manager Dashboard
 | Overview | Messaging | Issue Tracker |
