@@ -140,7 +140,7 @@ EPMS/
 |---|
 | ![Leave](App%20pictures/CaptureWL1.PNG) |
 
-|Feedback|
+|Feedback on Workdone|
 |---|
 | ![Feedback](App%20pictures/CaptureWF1.PNG) |
 
