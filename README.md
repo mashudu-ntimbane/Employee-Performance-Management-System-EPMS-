@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=flat-square)]()
 
-**A full-stack workforce management platform serving HR, Managers, and Staff — built for real-world deployment at Tirelo Capital.**  
+**A full-stack workforce management platform serving HR, Managers, and Staff — built for real-world deployment at Jarrlix Holdings.**  
 Role-based dashboards · Automated workflows · Real-time communication · Facility management
 
 </div>
