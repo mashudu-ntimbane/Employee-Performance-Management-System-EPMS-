@@ -86,10 +86,11 @@ EPMS/
 | ![HR Dashboard](App%20pictures/Capture2.PNG) |
 
 ### HR
-| Dashboard| HR profile |
-| ![HR Dashboard](App%20pictures/CaptureH1.PNG) |  ![Leave](App%20pictures/CaptureH2.PNG) ,  ![Leave](App%20pictures/CaptureH2P.PNG)  | 
-| Employees|
-![Employees](App%20pictures/CaptureH1E.PNG) |
+| Overview | Employee Directory | Leave Management |
+|---|---|---|
+| ![HR Dashboard](App%20pictures/CaptureH1.PNG) | ![Employees](App%20pictures/CaptureH1E.PNG) | ![Leave](App%20pictures/CaptureH1L.PNG) |
+
+### Manager Dashboard
 
 ### Manager Dashboard
 | Overview | Messaging | Issue Tracker |
