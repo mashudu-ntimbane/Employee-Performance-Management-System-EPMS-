@@ -90,9 +90,9 @@ EPMS/
 |---|
 | ![HR Dashboard](App%20pictures/CaptureH1.PNG) |
 
- |HR Profile|
- |---|
- | ![HR Profile](App%20pictures/CaptureH2.PNG), ![HR Profile](App%20pictures/CaptureH2P.PNG)  |
+ |HR Profile||
+ |---|---|
+ | ![HR Profile](App%20pictures/CaptureH2.PNG) | ![HR Profile](App%20pictures/CaptureH2P.PNG)  |
 
 | Employees|
 |---|
