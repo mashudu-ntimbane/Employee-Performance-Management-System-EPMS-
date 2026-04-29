@@ -17,7 +17,7 @@ Role-based dashboards · Automated workflows · Real-time communication · Facil
 
 ## Overview
 
-The **Employee Performance Management System (EPMS)** is a production-grade, full-stack web application that brings HR Administrators, Managers, and Staff onto a single, centralized platform. Deployed for **Jarrlix Holdings**, EPMS gives each role a purpose-built dashboard and workflow — so every level of the organization can manage their responsibilities without friction.
+The **Employee Performance Management System (EPMS)** is a production-grade, full-stack web application that brings HR Administrators, Managers, and Staff onto a single, centralized platform. It will be deployed for **Jarrlix Holdings**, EPMS gives each role a purpose-built dashboard and workflow — so every level of the organization can manage their responsibilities without friction.
 
 The system addresses the operational bottlenecks common in mid-sized organizations: approval delays, siloed communication, untracked attendance, and reactive facility management. EPMS solves all of these through automation and role-based access control.
 
