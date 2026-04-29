@@ -1,4 +1,4 @@
-<img width="1894" height="1015" alt="image" src="https://github.com/user-attachments/assets/8020e46f-82c9-4a15-b680-c2104b035ba1" /><div align="center">
+<div align="center">
 
 # Employee Performance Management System
 ### *A Unified Workspace for HR, Managers, and Staff*
