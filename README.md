@@ -82,13 +82,17 @@ EPMS/
 
 ### Login
 | Overview |
-|---|---|---|
+|---|
 | ![HR Dashboard](App%20pictures/Capture2.PNG) |
 
 ### HR
-| Overview | Employee Directory | Leave Management |
-|---|---|---|
-| ![HR Dashboard](App%20pictures/CaptureH1.PNG) | ![Employees](App%20pictures/CaptureH1E.PNG) | ![Leave](App%20pictures/CaptureH1L.PNG) |
+| HR Dashboard| HR Profile|
+|---|---|
+| ![HR Dashboard](App%20pictures/CaptureH1.PNG) | ![Employees](App%20pictures/CaptureH2.PNG) |
+
+| Employees|
+|---|
+| ![Leave](App%20pictures/CaptureH1E.PNG) |
 
 ### Manager Dashboard
 
