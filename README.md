@@ -111,7 +111,7 @@ EPMS/
 
 |Messages |
 |---|
-| ![Inbox](App%20pictures/CaptureMM1.PNG) ![Message](App%20pictures/CaptureWmessR.PNG)  ![New message](App%20pictures/CaptureMS.PNG) | 
+| ![Inbox](App%20pictures/CaptureMM1.PNG) ![Message](App%20pictures/CaptureWMessR.PNG)  ![New message](App%20pictures/CaptureMS.PNG) | 
 
 |Task tracking |
 |---|
