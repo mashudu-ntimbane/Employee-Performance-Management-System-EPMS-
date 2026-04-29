@@ -81,11 +81,13 @@ EPMS/
 ## Screenshots
 
 ### Login
+
 | Overview |
 |---|
 | ![Login](App%20pictures/Capture2.PNG) |
 
 ### HR
+
 | HR Dashboard|
 |---|
 | ![HR Dashboard](App%20pictures/CaptureH1.PNG) |
@@ -100,8 +102,7 @@ EPMS/
 
 ### Manager
 
-### Manager Dashboard
-| Dashboard|
+| Manager Dashboard|
 |---|
 | ![Manager Dashboard](App%20pictures/CaptureMD2.PNG) |
 
@@ -126,6 +127,7 @@ EPMS/
 | ![Feedback](App%20pictures/CaptureMF1.PNG) ![Send Feedback](App%20pictures/CaptureMF2.PNG)  ![Received](App%20pictures/CaptureMF3.PNG) | 
 
 ### Staff 
+
 | Dashboard|
 |---|
 | ![OS Dashboard](App%20pictures/CaptureW1D.PNG) |
