@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1894" height="1015" alt="image" src="https://github.com/user-attachments/assets/8020e46f-82c9-4a15-b680-c2104b035ba1" /><div align="center">
 
 # Employee Performance Management System
 ### *A Unified Workspace for HR, Managers, and Staff*
@@ -90,25 +90,62 @@ EPMS/
 |---|
 | ![HR Dashboard](App%20pictures/CaptureH1.PNG) |
 
- |HR Profile||
- |---|---|
- | ![HR Profile](App%20pictures/CaptureH2.PNG) | ![HR Profile](App%20pictures/CaptureH2P.PNG)  |
+ |HR Profile|
+ |---|
+ | ![HR Profile](App%20pictures/CaptureH2.PNG) ![HR Profile](App%20pictures/CaptureH2P.PNG)  |
 
 | Employees|
 |---|
 | ![Employees](App%20pictures/CaptureH1E.PNG) |
 
-### Manager Dashboard
+### Manager
 
 ### Manager Dashboard
-| Overview | Messaging | Issue Tracker |
-|---|---|---|
-| ![Manager Dashboard](App%20pictures/CaptureMD1.PNG) | ![Messages](App%20pictures/CaptureMM1.PNG) | ![Issues](App%20pictures/CaptureMTR1.PNG) |
+| Dashboard|
+|---|
+| ![Manager Dashboard](App%20pictures/CaptureMD2.PNG) |
 
-### Staff Interface
-| Dashboard | Profile | Issue Reporting |
-|---|---|---|
-| ![Staff Dashboard](App%20pictures/CaptureW1D.PNG) | ![Profile](App%20pictures/CaptureWPP1.PNG) | ![Issues](App%20pictures/CaptureW1I.PNG) |
+|Manager Profile |
+|---|
+| ![Manager profile](App%20pictures/CaptureMPP1.PNG) |
+
+|Messages |
+|---|
+| ![Inbox](App%20pictures/CaptureMM1.PNG) ![Message](App%20pictures/CaptureWmessR.PNG)  ![New message](App%20pictures/CaptureMS.PNG) | 
+
+|Task tracking |
+|---|
+| ![Task tracking](App%20pictures/CaptureMTR1.PNG)  ![Task tracking](App%20pictures/CaptureMTR2.PNG)|
+
+|Leave|
+|---|
+| ![Leave](App%20pictures/CaptureML1.PNG)  ![Leave](App%20pictures/CaptureML2.PNG)|
+
+|Feedback|
+|---|
+| ![Feedback](App%20pictures/CaptureMF1.PNG) ![Send Feedback](App%20pictures/CaptureMF2.PNG)  ![Received](App%20pictures/CaptureMF3.PNG) | 
+
+### Staff 
+| Dashboard|
+|---|
+| ![OS Dashboard](App%20pictures/CaptureW1D.PNG) |
+
+|Manager Profile |
+|---|
+| ![OS profile](App%20pictures/CaptureWPP1.PNG) |
+
+|Leave|
+|---|
+| ![Leave](App%20pictures/CaptureWL1.PNG) |
+
+|Feedback|
+|---|
+| ![Feedback](App%20pictures/CaptureWF1.PNG) |
+
+|Issues|
+|---|
+| ![Report Issue](App%20pictures/CaptureW1I.PNG)  ![my reported](App%20pictures/CaptureW2I.PNG) ![Rate](App%20pictures/CaptureRATING.PNG) ![Reported](App%20pictures/CaptureWI3.PNG)|
+
 
 ---
 
