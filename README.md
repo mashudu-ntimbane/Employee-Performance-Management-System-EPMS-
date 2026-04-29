@@ -120,7 +120,7 @@ EPMS/
 
 |Leave|
 |---|
-| ![Leave](App%20pictures/CaptureML1.PNG)  ![Leave](App%20pictures/CaptureML2.PNG)|
+| ![Leave](App%20pictures/CaptureML1.PNG)  ![Leave](App%20pictures/CaptureML3.PNG)|
 
 |Feedback|
 |---|
