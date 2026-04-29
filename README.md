@@ -152,7 +152,7 @@ EPMS/
 
 |Company page |
 |---|
-| ![Company page](App%20pictures/CaptureCompanyPage.PNG) |
+| ![Company page](App%20pictures/CaptureCompany page.PNG) |
 
 ---
 
