@@ -1,0 +1,218 @@
+[08-Sep-2024 01:43:52 Europe/Berlin] Attempting login
+[08-Sep-2024 01:43:52 Europe/Berlin] Executing command: python3 facial_recognition_login.py login 
+[08-Sep-2024 01:43:52 Europe/Berlin] Python script output: 
+[08-Sep-2024 01:43:52 Europe/Berlin] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\face_recognition_interface.php on line 29
+[08-Sep-2024 01:43:52 Europe/Berlin] Login failed. Python script output: 
+[08-Sep-2024 01:44:57 Europe/Berlin] Attempting login
+[08-Sep-2024 01:44:57 Europe/Berlin] Executing command: python3 facial_recognition_login.py login 
+[08-Sep-2024 01:44:58 Europe/Berlin] Python script output: 
+[08-Sep-2024 01:44:58 Europe/Berlin] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\face_recognition_interface.php on line 29
+[08-Sep-2024 01:44:58 Europe/Berlin] Login failed. Python script output: 
+[08-Sep-2024 01:45:05 Europe/Berlin] Attempting to register user: Mashudu
+[08-Sep-2024 01:45:05 Europe/Berlin] Executing command: python3 facial_recognition_login.py register Mashudu
+[08-Sep-2024 01:45:05 Europe/Berlin] Python script output: 
+[08-Sep-2024 01:45:14 Europe/Berlin] Attempting login
+[08-Sep-2024 01:45:14 Europe/Berlin] Executing command: python3 facial_recognition_login.py login 
+[08-Sep-2024 01:45:14 Europe/Berlin] Python script output: 
+[08-Sep-2024 01:45:14 Europe/Berlin] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\face_recognition_interface.php on line 29
+[08-Sep-2024 01:45:14 Europe/Berlin] Login failed. Python script output: 
+[08-Sep-2024 01:46:02 Europe/Berlin] Attempting login
+[08-Sep-2024 01:46:02 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 01:46:20 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, John Doe
+
+[08-Sep-2024 01:46:20 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ John Doe
+[08-Sep-2024 01:46:25 Europe/Berlin] Attempting login
+[08-Sep-2024 01:46:25 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 01:47:00 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, John Doe
+
+[08-Sep-2024 01:47:00 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ John Doe
+[08-Sep-2024 01:57:00 Europe/Berlin] Attempting login
+[08-Sep-2024 01:57:00 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 01:57:29 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, John Doe
+
+[08-Sep-2024 01:57:29 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ John Doe
+[08-Sep-2024 01:57:38 Europe/Berlin] Attempting login
+[08-Sep-2024 01:57:38 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 01:58:38 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, John Doe
+
+[08-Sep-2024 01:58:38 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ John Doe
+[08-Sep-2024 02:04:37 Europe/Berlin] Attempting login
+[08-Sep-2024 02:04:37 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 02:04:51 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, John Doe
+
+[08-Sep-2024 02:04:51 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\face_recognition_interface.php on line 40
+[08-Sep-2024 02:04:51 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ John Doe
+[08-Sep-2024 14:07:24 Europe/Berlin] Attempting login
+[08-Sep-2024 14:07:24 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 14:07:36 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, John Doe
+
+[08-Sep-2024 14:07:36 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ John Doe
+[08-Sep-2024 14:19:25 Europe/Berlin] Attempting login
+[08-Sep-2024 14:19:25 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 14:19:36 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, John Doe
+
+[08-Sep-2024 14:19:36 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ John Doe
+[08-Sep-2024 14:19:41 Europe/Berlin] Attempting login
+[08-Sep-2024 14:19:41 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 14:19:55 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, Makhe
+
+[08-Sep-2024 14:19:55 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ Makhe
+[08-Sep-2024 14:20:15 Europe/Berlin] Attempting login
+[08-Sep-2024 14:20:15 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 14:20:30 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, John Doe
+
+[08-Sep-2024 14:20:30 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ John Doe
+[08-Sep-2024 14:20:34 Europe/Berlin] Attempting login
+[08-Sep-2024 14:20:34 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 14:20:52 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, Makhe
+
+[08-Sep-2024 14:20:52 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ Makhe
+[08-Sep-2024 14:20:52 Europe/Berlin] Attempting login
+[08-Sep-2024 14:20:52 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 14:21:02 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, John Doe
+
+[08-Sep-2024 14:21:02 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ John Doe
+[08-Sep-2024 14:21:02 Europe/Berlin] Attempting login
+[08-Sep-2024 14:21:02 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 14:21:21 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, John Doe
+
+[08-Sep-2024 14:21:21 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ John Doe
+[08-Sep-2024 14:21:27 Europe/Berlin] Attempting login
+[08-Sep-2024 14:21:27 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 14:21:40 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, John Doe
+
+[08-Sep-2024 14:21:40 Europe/Berlin] Login successful for user: Look at the camera and press 'q' when ready
+ John Doe
+[08-Sep-2024 17:44:19 Europe/Berlin] Attempting login
+[08-Sep-2024 17:44:19 Europe/Berlin] Executing command: python3 facial_recognition_login.py login 
+[08-Sep-2024 17:44:19 Europe/Berlin] Python script output: 
+[08-Sep-2024 17:44:19 Europe/Berlin] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\face_recognition_interface.php on line 44
+[08-Sep-2024 17:44:19 Europe/Berlin] Login failed. Python script output: 
+[08-Sep-2024 17:44:54 Europe/Berlin] Attempting login
+[08-Sep-2024 17:44:54 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 17:45:13 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Login failed. User not recognized.
+
+[08-Sep-2024 17:45:13 Europe/Berlin] Login failed. Python script output: Look at the camera and press 'q' when ready
+Login failed. User not recognized.
+
+[08-Sep-2024 17:45:18 Europe/Berlin] Attempting login
+[08-Sep-2024 17:45:18 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 17:45:31 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Login failed. User not recognized.
+
+[08-Sep-2024 17:45:31 Europe/Berlin] Login failed. Python script output: Look at the camera and press 'q' when ready
+Login failed. User not recognized.
+
+[08-Sep-2024 17:45:50 Europe/Berlin] Attempting login
+[08-Sep-2024 17:45:50 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 17:46:03 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Login failed. User not recognized.
+
+[08-Sep-2024 17:46:03 Europe/Berlin] Login failed. Python script output: Look at the camera and press 'q' when ready
+Login failed. User not recognized.
+
+[08-Sep-2024 17:53:10 Europe/Berlin] Attempting login
+[08-Sep-2024 17:53:10 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[08-Sep-2024 17:53:42 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Login failed. User not recognized.
+
+[08-Sep-2024 17:53:42 Europe/Berlin] Login failed. Python script output: Look at the camera and press 'q' when ready
+Login failed. User not recognized.
+
+[08-Sep-2024 17:54:21 Europe/Berlin] Attempting to register user: Mashudu
+[08-Sep-2024 17:54:21 Europe/Berlin] Executing command: python facial_recognition_login.py register Mashudu
+[08-Sep-2024 17:55:23 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+
+[08-Sep-2024 17:55:42 Europe/Berlin] Attempting to register user: Mashudu
+[08-Sep-2024 17:55:42 Europe/Berlin] Executing command: python facial_recognition_login.py register Mashudu
+[08-Sep-2024 17:55:54 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+
+[08-Sep-2024 17:56:07 Europe/Berlin] Attempting to register user: Mashudu
+[08-Sep-2024 17:56:07 Europe/Berlin] Executing command: python facial_recognition_login.py register Mashudu
+[08-Sep-2024 17:56:22 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+
+[08-Sep-2024 17:56:31 Europe/Berlin] Attempting to register user: Mashudu
+[08-Sep-2024 17:56:31 Europe/Berlin] Executing command: python facial_recognition_login.py register Mashudu
+[08-Sep-2024 17:56:50 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+
+[09-Sep-2024 12:22:55 Europe/Berlin] Attempting login
+[09-Sep-2024 12:22:55 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[09-Sep-2024 12:23:08 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, Mashudu
+
+[09-Sep-2024 12:23:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_username'@'localhost' (using password: YES) in C:\xampp\htdocs\face_recognition_interface.php:17
+Stack trace:
+#0 C:\xampp\htdocs\face_recognition_interface.php(17): mysqli->__construct('localhost', 'your_username', Object(SensitiveParameterValue), 'facial_recognit...')
+#1 C:\xampp\htdocs\face_recognition_interface.php(46): verifyWithDatabase('Look at the cam...')
+#2 {main}
+  thrown in C:\xampp\htdocs\face_recognition_interface.php on line 17
+[09-Sep-2024 12:23:51 Europe/Berlin] Attempting login
+[09-Sep-2024 12:23:51 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[09-Sep-2024 12:24:04 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, Mashudu
+
+[09-Sep-2024 12:24:04 Europe/Berlin] Login failed. User not found in database: Look at the camera and press 'q' when ready
+ Mashudu
+[09-Sep-2024 12:24:15 Europe/Berlin] Attempting login
+[09-Sep-2024 12:24:15 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[09-Sep-2024 12:24:28 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, Mashudu
+
+[09-Sep-2024 12:24:28 Europe/Berlin] Login failed. User not found in database: Look at the camera and press 'q' when ready
+ Mashudu
+[09-Sep-2024 12:24:36 Europe/Berlin] Attempting login
+[09-Sep-2024 12:24:36 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[09-Sep-2024 12:24:47 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, Mashudu
+
+[09-Sep-2024 12:24:47 Europe/Berlin] Login failed. User not found in database: Look at the camera and press 'q' when ready
+ Mashudu
+[09-Sep-2024 12:28:20 Europe/Berlin] Attempting to register user: lazy
+[09-Sep-2024 12:28:20 Europe/Berlin] Executing command: python facial_recognition_login.py register lazy
+[09-Sep-2024 12:28:37 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+User registered successfully
+
+[09-Sep-2024 12:28:48 Europe/Berlin] Attempting login
+[09-Sep-2024 12:28:48 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[09-Sep-2024 12:29:00 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+Welcome, Mashudu
+
+[09-Sep-2024 12:29:00 Europe/Berlin] Login failed. User not found in database: Look at the camera and press 'q' when ready
+ Mashudu
+[09-Sep-2024 12:57:06 Europe/Berlin] Attempting login
+[09-Sep-2024 12:57:06 Europe/Berlin] Executing command: python facial_recognition_login.py login 
+[09-Sep-2024 12:59:35 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\face_recognition_interface.php on line 11
+[02-Oct-2024 11:36:17 Europe/Berlin] Attempting to register user: Mashudu
+[02-Oct-2024 11:36:17 Europe/Berlin] Executing command: python facial_recognition_login.py register Mashudu
+[02-Oct-2024 11:36:55 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+
+[02-Oct-2024 11:37:06 Europe/Berlin] Attempting to register user: Mashudu
+[02-Oct-2024 11:37:06 Europe/Berlin] Executing command: python facial_recognition_login.py register Mashudu
+[02-Oct-2024 11:37:19 Europe/Berlin] Python script output: Look at the camera and press 'q' when ready
+

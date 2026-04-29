@@ -1,0 +1,142 @@
+/* Reset basic styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #3498db, #2ecc71);
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Container for header and logo */
+.container {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.container img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.container h1 {
+  font-size: 2.5rem;
+  color: #fff;
+}
+
+.container h2 {
+  font-size: 1.5rem;
+  color: #ecf0f1;
+  margin-top: 10px;
+}
+
+/* Form container */
+.container1 {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 450px;
+}
+
+/* Form title styling */
+h3 {
+  color: #2980b9;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Form inputs */
+input[type="text"], input[type="password"], input[type="email"], input[type="tel"], select {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1em;
+}
+
+/* Radio buttons layout */
+input[type="radio"] {
+  margin-right: 5px;
+}
+
+/* Other staff options styling */
+#otherStaffOptions select {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1em;
+}
+
+/* Checkbox styling */
+input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+/* Links */
+a {
+  color: #2980b9;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Buttons styling */
+button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 20px;
+  cursor: pointer;
+  font-size: 1em;
+  width: 100%;
+  margin: 10px 0;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  body {
+      padding: 15px;
+  }
+
+  .container img {
+      width: 120px;
+      height: 120px;
+  }
+
+  .container h1 {
+      font-size: 2rem;
+  }
+
+  .container h2 {
+      font-size: 1.3rem;
+  }
+
+  .container1 {
+      padding: 20px;
+  }
+}
