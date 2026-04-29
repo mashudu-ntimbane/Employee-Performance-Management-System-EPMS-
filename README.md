@@ -229,10 +229,6 @@ The following enhancements are planned for future iterations:
 - [ ] Advanced analytics and performance reporting dashboard
 - [ ] AI-powered performance insights and trend detection
 - [ ] Payroll system integration
-- [ ] Facial recognition attendance (module scaffolded)
-- [ ] Email and SMS notification system
-- [ ] Document management with versioning
-- [ ] Multi-company / multi-tenant architecture
 - [ ] Fine-grained role permissions and audit logs
 
 ---
