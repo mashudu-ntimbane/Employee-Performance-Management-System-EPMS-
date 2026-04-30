@@ -118,13 +118,13 @@ EPMS/
 |---|
 | ![Task tracking](App%20pictures/CaptureMTR1.PNG)  ![Task tracking](App%20pictures/CaptureMTR2.PNG)|
 
+|Feedback|
+|---|
+| ![Send Feedback](App%20pictures/Capture6.PNG)  ![Received](App%20pictures/CaptureMF3.PNG) | 
+
 |Leave|
 |---|
 | ![Leave](App%20pictures/CaptureML1.PNG)  ![Leave](App%20pictures/CaptureML3.PNG)|
-
-|Feedback|
-|---|
-| ![Feedback](App%20pictures/CaptureMF1.PNG) ![Send Feedback](App%20pictures/Capture6.PNG)  ![Received](App%20pictures/CaptureMF3.PNG) | 
 
 ### Staff 
 
