@@ -124,7 +124,7 @@ EPMS/
 
 |Feedback|
 |---|
-| ![Feedback](App%20pictures/CaptureMF1.PNG) ![Send Feedback](App%20pictures/CaptureMF2.PNG)  ![Received](App%20pictures/CaptureMF3.PNG) | 
+| ![Feedback](App%20pictures/CaptureMF1.PNG) ![Send Feedback](App%20pictures/Capture6.PNG)  ![Received](App%20pictures/CaptureMF3.PNG) | 
 
 ### Staff 
 
